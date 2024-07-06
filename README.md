@@ -13,12 +13,12 @@ This project is the fourth in a series of 10 React revision projects aimed at en
 - CSS: Styling the application for a better user experience.
 
 ## Setup and Installation
-- Clone the repository: git clone https://github.com/your-username/project-4-foodcourt.git cd project-4-foodcourt
+- Clone the repository: git clone https://github.com/soniyasoni3331/FoodCourt.git cd FoodCourt
 
 - Install dependencies:   
 npm install
 
-- Start the development server: npm start
+- Start the development server: npm run dev
 
 ## Usage
 - Open your browser and navigate to http://localhost:3000 to see the application in action.
